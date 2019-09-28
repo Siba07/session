@@ -1,2 +1,3 @@
 hello worl
-My name samuel
+My name Samuel
+My age is 100
